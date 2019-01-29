@@ -1,6 +1,6 @@
 example.property: "I AM IN testchange DEFAULT"
-spring.jpa.database: "POSTGRESQL"
-spring.datasource.platform:  "postgres"
+spring.jpa.database: "MYSQL"
+spring.datasource.platform:  "mysql"
 spring.jpa.show-sql: "true"
 spring.database.driverClassName: "com.mysql.jdbc.Driver"
 spring.datasource.url: "jdbc:mysql://localhost:3306/sakila"
